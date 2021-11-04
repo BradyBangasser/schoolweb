@@ -30,6 +30,7 @@ hr {
 }
 #maincontul {
     font-style: bold;
+    font-size: x-large;
 }
 #mainContent {
     overflow: hidden;
@@ -49,4 +50,28 @@ hr {
 #rightimage {
     width: auto;
     height: auto;
+}
+#listofcommons {
+    padding-left: auto;
+    width: 50%
+}
+#sih1 {
+    font-size: xx-large;
+    text-decoration: underline;
+}
+#httpvshttps {
+    text-align: center;
+}
+.bold {
+    text-decoration: bold;
+}
+.button {
+    padding: 15px;
+    background-color: #21586b;
+    border-radius: 20px;
+    border-color: white;
+    margin: 20px;
+    text-decoration: bold;
+    font-weight: bold;
+    border-width: thick;
 }
