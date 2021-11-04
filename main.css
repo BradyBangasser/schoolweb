@@ -93,3 +93,16 @@ hr {
     border: 1px solid #21586b;
     box-shadow: rgb(63, 63, 63) 2px 2px 8px 8px;
 }
+.footer {
+    position: absolute;
+    margin-top: 10px; 
+    bottom: auto;  
+    left: 0;
+    width: 100%;
+    min-height: 50px;
+    background-color: #21586b;  
+    color: white;  
+    text-align: center;
+    font-weight: thin !important;
+    text-decoration: none !important;
+}
