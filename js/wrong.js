@@ -1,5 +1,5 @@
 const cdh = document.getElementById('cd')
-var cdt = 10
+var cdt = 6
 function getRanLink() {
     const links = ["https://www.youtube.com/watch?v=jM5AYgKpKg0", "https://www.youtube.com/watch?v=lOfZLb33uCg", "https://www.youtube.com/watch?v=ql3Wi2qrAEM", "https://www.youtube.com/watch?v=nrsnN23tmUA", "https://www.youtube.com/watch?v=BhiPp4Oe_FA", "https://www.youtube.com/watch?v=LPOlk22eftg"]
     const randomNumber = Math.floor(Math.random() * 100)
