@@ -107,6 +107,16 @@ hr {
     font-weight: thin !important;
     text-decoration: none !important;
 }
+.pageContentWrapper{
+  margin-bottom:100px;/* Height of footer*/
+} 
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:100px;
+}
 #why {
     text-align: center;
     width: 75%;
